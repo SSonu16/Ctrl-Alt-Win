@@ -107,7 +107,7 @@ This design ensures data consistency, efficient querying, and seamless feature e
 ## Technology Stack
 
 - **Frontend:** React with TypeScript, Vite, Tailwind CSS  
-- **Backend:** Supabase (authentication, database, edge functions)  
+- **Backend:** Supabase (authentication, database, edge functions) 
 - **Database:** Relational schema with versioned migrations  
 - **Architecture Focus:** Scalability, maintainability, and clarity  
 
