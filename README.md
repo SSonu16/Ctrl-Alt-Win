@@ -53,5 +53,5 @@ This project is built with:
 - Tailwind CSS
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+![destination-agartala](https://github.com/user-attachments/assets/)
 
-images used: (https://github.com/user-attachments/assets/43d4db62-aab6-432f-8d82-ba254c5f5441)
