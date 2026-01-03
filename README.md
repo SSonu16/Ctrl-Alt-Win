@@ -1,6 +1,8 @@
 # GlobeTrotter  
 ### Intelligent Travel Planning Platform for the Odoo Hackathon
 
+#DEMO LINK: https://globetrotter-india-travelguide.lovable.app
+
 GlobeTrotter is a structured, data-driven travel planning platform that demonstrates how strong relational data modeling combined with an intuitive user experience can solve real-world travel planning complexity.
 
 The application focuses on modular architecture, clean separation of concerns, and business-ready extensibility while delivering a seamless end-to-end experience for planning, visualizing, and organizing travel.
