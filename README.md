@@ -115,9 +115,10 @@ This design ensures data consistency, efficient querying, and seamless feature e
 
 ## Project Structure
 
-**Folder–folder–file structure**
+## Folder–Folder–File Structure
+
+```text
 globetrotter-india-main/
-│
 ├── .env
 ├── .gitignore
 ├── README.md
